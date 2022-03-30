@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Driver\ class\ for\ LibraryAssignment\r\n
+comment1.params=
+comment1.target=void\ main()
+comment1.text=\r\n\ Driver\ method\ following\ directions\ for\ LibraryAssignment\r\n
+comment2.params=library
+comment2.target=double\ averagePage(java.util.ArrayList)
+comment2.text=\r\n\ Returns\ the\ average\ amount\ of\ pages\ of\ novels\ in\ the\ library\r\n
+comment3.params=library\ year\ pages
+comment3.target=int\ bookCount(java.util.ArrayList,\ int,\ int)
+comment3.text=\r\n\ Returns\ the\ total\ count\ of\ books\ where\ Textbooks\ were\ editions\ at\ or\ after\ year\ \r\n\ or\ the\ Novel\ page\ count\ was\ greater\ than\ or\ equal\ to\ pages.\r\n
+numComments=4

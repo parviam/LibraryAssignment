@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=TextBook
+comment0.text=\r\n\ Class\ of\ LibraryAssignment\ representing\ a\ Textbook,\r\n\ Child\ of\ Book\ Class\r\n
+comment1.params=title\ author\ subject\ editionYr
+comment1.target=TextBook(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TextBook\r\n
+comment2.params=year
+comment2.target=boolean\ currentText(int)
+comment2.text=\r\n\ validates\ if\ a\ Textbook\r\n\ object\ has\ been\ created\ on\ or\ after\ the\ year\ sent\ to\ it\ (will\ return\ true,\ if\ it\ was\ an\ edition\ written\ prior\ to\ the\ parameter\ year\r\n\ sent,\ it\ will\ return\ false).\r\n
+comment3.params=
+comment3.target=java.lang.String\ getSubject()
+comment3.text=\r\n\ Accessor\ for\ subject\ instance\ variable\r\n
+comment4.params=
+comment4.target=int\ getEditionYr()
+comment4.text=\r\n\ Accessor\ for\ year\ instance\ variable\r\n
+comment5.params=subject
+comment5.target=void\ setSubject(java.lang.String)
+comment5.text=\r\n\ Mutator\ for\ subject\ instance\ variable\r\n
+comment6.params=editionYr
+comment6.target=void\ setEditionYear(int)
+comment6.text=\r\n\ Mutator\ for\ year\ instance\ variable\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ toString\ method\ for\ printing\r\n
+numComments=8

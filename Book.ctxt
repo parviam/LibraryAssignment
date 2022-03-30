@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\r\n\ Superclass\ of\ LibraryAssignment\ representing\ a\ Book,\r\n\ Parent\ of\ Textbook,\ Novel\ Classes\r\n
+comment1.params=title\ author
+comment1.target=Book(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Book\r\n
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment2.text=\r\n\ Accessor\ for\ title\ instance\ variable\r\n
+comment3.params=
+comment3.target=java.lang.String\ getAuthor()
+comment3.text=\r\n\ Accessor\ for\ author\ instance\ variable\r\n
+comment4.params=title
+comment4.target=void\ setTitle(java.lang.String)
+comment4.text=\r\n\ Mutator\ for\ title\ instance\ variable\r\n
+comment5.params=author
+comment5.target=void\ setAuthor(java.lang.String)
+comment5.text=\r\n\ Mutator\ for\ author\ instance\ variable\r\n
+numComments=6
